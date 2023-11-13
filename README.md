@@ -87,7 +87,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Yuan Tian - [@twitter_handle](https://twitter.com/ytiancompbio) - ytiancompbio@gmail.com
+Yuan Tian - [@ytiancompbio](https://twitter.com/ytiancompbio) - ytiancompbio@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
