@@ -67,7 +67,7 @@ A collection of my solutions to LeetCode coding problems in Python and SQL, orga
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] NeetCode 150
+- [ ] LeetCode 75
 - [ ] SQL 50
 - [ ] Advanced SQL 50
 
