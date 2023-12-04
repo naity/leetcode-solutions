@@ -68,7 +68,7 @@ A collection of my solutions to LeetCode coding problems in Python and SQL, orga
 ## Roadmap
 
 - [ ] LeetCode 75
-- [ ] SQL 50
+- [x] SQL 50
 - [ ] Advanced SQL 50
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -87,7 +87,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Yuan Tian - [@ytiancompbio](https://twitter.com/ytiancompbio) - ytiancompbio@gmail.com
+<p align="left">
+<a href="https://linkedin.com/in/ytiancompbio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ytiancompbio" height="30" width="40" /></a>
+<a href="https://twitter.com/ytiancompbio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ytiancompbio" height="30" width="40" /></a>
+<a href="https://medium.com/@yuan_tian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yuan_tian" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChgkIMzmAPYDRymKVoCNvkg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ytiancompbio" height="30" width="40" /></a>
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
