@@ -10,8 +10,8 @@ class Solution:
             2.3. repeat k times
             2.4. push back to stack in reverse order
 
-        Time: ?
-        Space: ?
+        Time: O(300^num_nested_k * N) num_nested_k doesn't grow with N => O(N)
+        Space: O(300^num_nested_k * N) => O(N)
         """
 
         res = []
