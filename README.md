@@ -69,7 +69,7 @@ A collection of my solutions to LeetCode coding problems in Python and SQL, orga
 
 - [ ] LeetCode 75
 - [x] SQL 50
-- [ ] Advanced SQL 50
+- [x] Advanced SQL 50
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
