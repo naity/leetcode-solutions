@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/naity/leetcode-solutions">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="125" height="125">
   </a>
 
 <h3 align="center">LeetCode Solutions</h3>
@@ -67,7 +67,7 @@ A collection of my solutions to LeetCode coding problems in Python and SQL, orga
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] LeetCode 75
+- [x] LeetCode 75
 - [x] SQL 50
 - [x] Advanced SQL 50
 
