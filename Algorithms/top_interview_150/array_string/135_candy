@@ -1,0 +1,31 @@
+class Solution:
+    def candy(self, ratings: List[int]) -> int:
+        """
+        for each index i, i must have more candy than its left neighbor
+        if it's rating is higher. Similary, it must have more candy
+        if it's rating is higher than its right neightbor. We can take
+        the max of the two in order to satisfy both.
+        Use two iterations: one for the left and one for the right
+        and use another array to store the results
+
+        Time: O(N)
+        Space: O(N)
+        """
+        n = len(ratings)
+
+        # at least one candy
+        res = [1] * n
+
+        # left
+        for i in range(1, n):
+            if ratings[i] > ratings[i-1]:
+                # one more is the minumum
+                res[i] = res[i-1] + 1
+
+        # right
+        for i in range(n-2, -1, -1):
+            if ratings[i] > ratings[i+1]:
+                # take the maximuum
+                res[i] = max(res[i], res[i+1]+1)
+
+        return sum(res)
