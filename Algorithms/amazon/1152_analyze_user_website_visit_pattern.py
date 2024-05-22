@@ -1,4 +1,5 @@
 from itertools import combinations
+from collections import defaultdict
 
 
 class Solution:
