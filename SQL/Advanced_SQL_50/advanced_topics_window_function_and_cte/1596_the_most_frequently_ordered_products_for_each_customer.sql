@@ -10,6 +10,7 @@ cte2 AS (
     SELECT customer_id,
         product_id,
         cnt,
+        
         MAX(cnt) OVER(PARTITION BY customer_id) as max_count
     FROM cte
 )
